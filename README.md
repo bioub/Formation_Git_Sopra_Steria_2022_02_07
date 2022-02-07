@@ -6,3 +6,9 @@ Formation Git Perfectionnement Sopra Steria du 07/02/2022
 
 * git merge
 * git rebase
+
+## Workflow
+
+* Centralized
+* Git flow
+* Github flow
